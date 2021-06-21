@@ -58,7 +58,7 @@ Continue practising HTML markup and CSS styling. Try CSS grid in the next projec
 
 ## Author
 
-- Website - [Cristina Delgado](https://www.your-site.com)
+- Website - [Cristina Delgado](https://cr1deg0.github.io/HTML-CSS-Card-Challenge/)
 - Frontend Mentor - [@cr1deg0](https://www.frontendmentor.io/profile/cr1deg0)
 
 
